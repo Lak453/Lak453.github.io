@@ -4,28 +4,28 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: Code Log
+subtitle: "WeChat Official Account: Introverted Programmer"
+description: "Zhuang Ma's personal blog, WeChat Official Account: Introverted Programmer"
+keywords: Code Log, Zhuang Ma, mzlogin, mazhuang, Introverted Programmer
 timezone: Asia/Shanghai
 encoding: "utf-8"
-# 页面左下角显示的年份
+# The year displayed at the bottom left of the page
 since: 2015
-# 源码仓库，请替换成自己的
+# Source code repository, please replace with your own
 repository: mzlogin/mzlogin.github.io
-# 对 css 和 js 资源的 cdn 加速配置
+# CDN acceleration configuration for css and js resources
 cdn:
     jsdelivr:
         enabled: false
-# 可选组件配置
+# Optional component configuration
 components:
-    # 分享
+    # Share
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
         enabled: false
         hide-platforms: qq,facebook
-    # 不蒜子访问统计
+    # Busuanzi visitor statistics
     busuanzi:
         enabled: false
         start_date: 2020-05-03
@@ -33,25 +33,25 @@ components:
     side_bar_repo:
         enabled: true
         limit: 5
-    # 文章字数统计
+    # Article word count
     word_count:
         enabled: true
-    # 页面右上角，以及「关于」页面的二维码
-    # 修改图片请替换 assets/images/qrcode.jpg
+    # QR code at the top right of the page and on the "About" page
+    # To change the image, please replace assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
-    # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
+        image_alt: Introverted Programmer
+ # Which view to use for the wiki index page, supports list/cate
     wiki:
         view: cate
-    # 图片灯箱效果功能
+    # Image lightbox effect feature
     fancybox:
         enabled: false
-# 压缩页面内容
+# Compress page content
 compress_html:
   clippings: all
   comments: ["<!--", "-->"]
-# 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
+# Code highlighting style, for supported theme list see https://github.com/mzlogin/rouge-themes
 highlight_theme: github
 
 # ---------------- #
@@ -70,38 +70,38 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
   -
     href: /archives/
-    label: 归档
+    label: Archives
     mobile-hidden: true
 
   -
     href: /open-source/
-    label: 开源
+    label: Open Source
     mobile-hidden: true
 
   -
     href: /fragments/
-    label: 片段
+    label: Fragments
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
     mobile-hidden: true
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
@@ -113,13 +113,13 @@ subscribe_rss: /feed.xml
 # ---------------- #
 index:
     banner:
-        # 首页 banner 区文字颜色
+        # Home page banner area text color
         color: "#fff"
-        # 首页导航栏文字颜色
+        # Home page navigation bar text color
         nav-color: "rgba(255, 255, 255, .5)"
-        # 首页 banner 区背景颜色
+        # Home page banner area background color
         background-color: "#4183c4"
-        # 首页 banner 区背景图片
+        # Home page banner area background image
         # background-image: "/assets/images/octicons-bg.png"
         # background-repeat: "no-repeat"
         # background-size: "cover"
@@ -158,46 +158,45 @@ collections:
 # ---------------- #
 # support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
 comments_provider: giscus
-# !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
-# disqus 配置参考：https://disqus.com
+# disqus configuration reference: https://disqus.com
 disqus:
     username: 
-# gitment 配置参考：https://imsun.net/posts/gitment-introduction/
+# gitment configuration reference: https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: mzlogin
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# gitalk 配置参考：https://github.com/gitalk/gitalk#install
+# gitalk configuration reference: https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mzlogin
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# utterances 配置参考：https://utteranc.es/
+# utterances configuration reference: https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments
-# beaudar 配置参考：https://beaudar.lipk.org/
+# beaudar configuration reference: https://beaudar.lipk.org/
 beaudar:
     repo: mzlogin/blog-comments
-# giscus 配置参考：https://giscus.app/zh-CN
+# giscus configuration reference: https://giscus.app/zh-CN
 giscus:
     repo: mzlogin/blog-comments
     repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
     category: Announcements
     category-id: DIC_kwDOBY0E7c4CRtg9
-# 在使用其它评论组件时可点击显示 Disqus
+# Click to display Disqus when using other comment components
 lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
 # ---------------- #
 simple_jekyll_search:
-    # 是否支持全文搜索
+    # Whether to support full-text search
     fulltext: false
-    # 最多显示多少条搜索结果
+    # Maximum number of search results to display
     limit: 10
 
 # ---------------- #
