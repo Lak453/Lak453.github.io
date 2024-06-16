@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Major Ukraine summit ends with fresh plea for peace but key powers spurn final agreement
-categories: News
+categories: [News]
 description: Major Ukraine summit ends
 keywords: strengths, weaknesses
 ---
