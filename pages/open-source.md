@@ -16,7 +16,7 @@ permalink: /open-source/
     </header>
     <div class="repo-list">
         <!-- Check here for github metadata -->
-        <!-- https://help.github.com/articles/repository-metadata-on-github-pages/ -->
+        <!-- https://github.com/Lak453/Lak453.github.io/ -->
         {% for repo in sorted_repos %}
         <a href="{{ repo.html_url }}" target="_blank" class="one-third-column card text-center">
             <div class="thumbnail">

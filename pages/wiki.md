@@ -2,14 +2,14 @@
 layout: wiki
 title: Wiki
 description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+keywords: Wiki
 comments: false
 copyright: false
-menu: 维基
+menu: Wiki
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> How many commands and shortcuts can one remember before their head explodes?
 
 {% case site.components.wiki.view %}
 
