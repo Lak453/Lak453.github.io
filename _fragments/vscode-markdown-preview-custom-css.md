@@ -1,8 +1,8 @@
 ---
 layout: fragment
-title: VSCode 自定义 Markdown 预览样式
+title: VSCode Markdown 
 tags: [vscode, markdown]
-description: VSCode 自定义 Markdown 预览样式
+description: VSCode Markdown 
 keywords: VSCode, Markdown
 mermaid: false
 sequence: false
