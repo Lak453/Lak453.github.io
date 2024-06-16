@@ -1,7 +1,7 @@
 ---
 layout: fragment
 title: Resume
-tags: [vscode, markdown]
+tags: [Resume]
 description: Resume
 keywords: Resume
 mermaid: false
