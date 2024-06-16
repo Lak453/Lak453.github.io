@@ -4,11 +4,11 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: Code Log
-subtitle: "WeChat Official Account: Introverted Programmer"
+title: Howard Blog
+subtitle: "Ho Wang Ho(Howard)"
 description: "Zhuang Ma's personal blog, WeChat Official Account: Introverted Programmer"
-keywords: Code Log, Zhuang Ma, mzlogin, mazhuang, Introverted Programmer
-timezone: Asia/Shanghai
+keywords: Howard Blog,Programmer,C++
+timezone: Asia/Hong Kong
 encoding: "utf-8"
 # The year displayed at the bottom left of the page
 since: 2015
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Ho Wang Ho (Howard)
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: Lak453
+location: Hong Kong
+email: hoho@msu.edu
 
 # ---------------- #
 #    Navigation    #
