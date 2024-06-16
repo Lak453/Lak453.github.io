@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Fragments
-description: fragments
-keywords: fragments
+title: My Resume
+description: Resume
+keywords:  Resume
 comments: false
 mermaid: false
-menu: fragments
-permalink: /fragments/
+menu: Resume
+permalink: /Resume/
 ---
 
 > Scattered knowledge and brief insights, gathered here as fragments.
