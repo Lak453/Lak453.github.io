@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 当我读李娟时我在想些什么
+title: What I Think About When I Read Harry Potter
 categories: [Blog]
-description: 读李娟的书的感受。
-keywords: 李娟, 阿勒泰
+description: Reflections on reading Harry Potter.
+keywords: Harry Potter, J.K. Rowling
 mermaid: false
 sequence: false
 flow: false
@@ -12,18 +12,19 @@ mindmap: false
 mindmap2: false
 ---
 
-最近李娟的作品很火，我先是在前同事的微博里看到了《遥远的向日葵地》，然后又从现同事的朋友圈里知道了《我的阿勒泰》。
+Recently, Harry Potter has been quite popular again. I first came across "Harry Potter and the Sorcerer's Stone" on a colleague's social media, and then noticed "Harry Potter and the Prisoner of Azkaban" mentioned in another friend's post.
 
-然后就一发不可收拾，找来了她的其它书籍，继续阅读。我羡慕那些能打出精妙比方和写出优美文章的人，坚信他们的内心一定有一个我看不见的精彩世界。所以我企图从她的文字里窥探到写作的奥义，但最终只看见了自己内心的贫瘠。是的，没有对生活细致入微的观察和体验，怎么能写出锦绣文章？莫说写下来，如今好像就连自己过往各个阶段的记忆，都只剩一些碎屑，连不成片。想到这里，我觉得要是坚持把生活和感悟及时记录下来该有多好啊……有些东西丢了就再也找不回来了。
+Soon, I found myself diving into the other books in the series, unable to stop reading. I envy those who can craft intricate metaphors and write beautifully, convinced that they possess an unseen, fascinating world within them. So, I tried to glimpse the essence of writing through J.K. Rowling's words, but ultimately, I only saw the barrenness within myself. Without meticulous observation and experience of life, how can one write splendid prose? Not to mention writing, it seems that even my memories of different life stages have become fragmented, unable to form a complete picture. Thinking about this, I wish I had consistently recorded my life and thoughts... Some things, once lost, can never be recovered.
 
-读她的文章的时候，脑海里总能随之浮现出对应的场景，一切都那么平静，所有发生的一切都自然而然，不觉有一点羡慕，有一些神往。但我知道想象总是浪漫的，会淡化苦难。如果是自己在过那样的生活，茫茫草场，深山老林，可能一天到晚见不到一个人影，眼前的一切静止得像一幅图画，只有山风和天上的云朵能带来一点变化，想想都觉得是悠长的寂寞，我真的能乐在其中吗？
+When reading her work, corresponding scenes always vividly appear in my mind. Everything is so serene, everything happens so naturally, evoking a bit of envy and some longing. But I know that imagination is always romantic and tends to downplay hardships. If I were living that life, amidst vast meadows and deep forests, possibly not seeing a single soul all day, everything before me would be as still as a painting, with only the mountain breeze and the clouds bringing any change. Just thinking about it feels like an endless solitude—could I truly find joy in it?
 
-看她笔下描述的一切，总是觉得新鲜。不一样的风景，不一样的习俗，不一样的人。这让我想到，有时候我会觉得日子陷入了重复，生活里没有多少新鲜事发生，甚至觉得，如果说上半生，更多是在与贫穷作斗争，那下半生，则更多是对抗内心的贫瘠。
+Reading her descriptions always feels fresh. Different landscapes, different customs, different people. It makes me realize that sometimes I feel trapped in a monotonous routine, with not much new happening in life. If the first half of my life was spent battling poverty, the latter half seems to be more about fighting the barrenness within.
 
-看过一个理论，说随着年龄的增长，人之所以会觉得时间流逝得越来越快，是因为大脑本质上是一个预测机器，它倾向于只关注并记忆那些新奇和令人惊讶的事物。如果一天里有很多新奇的信息涌现，回忆起来，这一天也会很丰富，有很多的时间片段。反之，如果只是单调的重复，则可能没有什么记忆点留存下来。
+I once read a theory that as we age, time seems to pass more quickly because our brains, fundamentally prediction machines, tend to focus on and remember novel and surprising things. If a day is filled with many new experiences, it will feel rich in retrospect, with many time fragments. Conversely, if the day is monotonous, few memory points will remain.
 
-这个事情重不重要呢？不重要，一个安心的人在哪里都可以过自得其乐的生活。也重要，我们可以通过勇敢地投身于未知，寻找新的挑战，来对抗岁月流逝的匆匆。
+Is this important? Not really—someone at peace with themselves can find joy anywhere. But it is important too, as we can combat the swift passage of time by bravely immersing ourselves in the unknown and seeking new challenges.
 
-现在就说李娟的文字治好了我的精神内耗为时尚早，但我隐约感觉到在阅读的过程中我逐渐在被灌注一种力量，一种提醒自己专注于当下的力量。这股力量是好些以前听过的哲理，和读过的心理学书籍里面企图教会我的，但终究只能自己悟得。
+It's too early to say that J.K. Rowling's writing has cured my mental fatigue, but I faintly feel that during the reading process, I am gradually being infused with a strength—a strength that reminds me to focus on the present. This strength is something that many philosophies and psychology books have tried to teach me, but ultimately, it's something I must understand on my own.
 
-PS：我有时候觉得自己有点矫情，但是想写点什么东西的人，多少是要有一点子矫情在身上的吧。不然，这有什么稀奇的？那有啥好写的？最后就没有什么需要写下来的了。我接受自己有一点这样的矫情。
+PS: Sometimes I think I'm a bit sentimental, but anyone who wants to write must have a bit of sentimentality, right? Otherwise, what's the big deal? What's worth writing about? In the end, there would be nothing to write down. I accept that I have a bit of this sentimentality.
+
