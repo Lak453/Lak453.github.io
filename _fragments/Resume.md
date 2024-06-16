@@ -1,9 +1,9 @@
 ---
 layout: fragment
-title: VSCode Markdown 
+title: Resume
 tags: [vscode, markdown]
-description: VSCode Markdown 
-keywords: VSCode, Markdown
+description: Resume
+keywords: Resume
 mermaid: false
 sequence: false
 flow: false
