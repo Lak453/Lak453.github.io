@@ -2,9 +2,9 @@
 layout: page
 title: Archives
 description: N/A
-keywords: Archives
+keywords: 归档
 comments: false
-menu: Archives
+menu: 归档
 permalink: /archives/
 ---
 
