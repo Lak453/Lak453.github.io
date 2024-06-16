@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: Wiki
-description: 人越学越觉得自己无知
+description: N/A
 keywords: Wiki
 comments: false
 copyright: false

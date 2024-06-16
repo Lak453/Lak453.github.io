@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: N/A
 keywords: Ho Wang Ho(Howard)
 comments: true
 menu: About
@@ -18,11 +18,6 @@ I am Ho Wang Ho (Howard), I love to study in programing language nice to meet yo
 {% endfor %}
 {% if site.url contains 'mazhuang.org' %}
 <li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
-</ul>
 
 
 ## Skill Keywords
