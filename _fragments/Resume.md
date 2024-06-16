@@ -1,5 +1,5 @@
 ---
-layout: fragment
+layout: Resume
 title: Resume
 tags: [Resume]
 description: Resume
