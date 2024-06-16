@@ -12,11 +12,11 @@ mindmap: false
 mindmap2: false
 ---
 
-VSCode 里默认的 Markdown 预览样式不太好看，可以自定义样式。
+In VSCode, the default Markdown preview style is not very visually appealing. You can customize the style.
 
-方法是在 VSCode 的配置里，找到 Extensions > Markdown > Markdown: Styles，然后 Add Item，可以添加当前工作目录下的本地 css 文件，也可以添加 url 地址。
+To do this, go to the VSCode settings, find Extensions > Markdown > Markdown: Styles, and then Add Item. You can add a local CSS file from the current working directory or a URL.
 
-遇到过的问题：
+Issues encountered:
 
-1. 本地 css 文件不能是当前工作目录外的绝对路径，否则会报错；
-2. url 地址对应的媒体类型不能是 text/plain 的，否则会报错 `Could not load 'markdown.styles'`，参考：<https://github.com/microsoft/vscode/issues/148677>。
+1. The local CSS file cannot be an absolute path outside the current working directory, otherwise, an error will occur.
+2. The media type of the URL address must not be text/plain, otherwise, an error will occur: `Could not load 'markdown.styles'`. Reference: <https://github.com/microsoft/vscode/issues/148677>.
