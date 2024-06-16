@@ -2,19 +2,15 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+keywords: Ho Wang Ho(Howard)
 comments: true
-menu: 关于
+menu: About
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+I am Ho Wang Ho (Howard), I love to study in programing language nice to meet you
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
-
-## 联系
+## Contact
 
 <ul>
 {% for website in site.data.social %}

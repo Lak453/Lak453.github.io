@@ -13,7 +13,7 @@ encoding: "utf-8"
 # The year displayed at the bottom left of the page
 since: 2015
 # Source code repository, please replace with your own
-repository: mzlogin/mzlogin.github.io
+repository: lak453/lak453.github.io
 # CDN acceleration configuration for css and js resources
 cdn:
     jsdelivr:
@@ -28,7 +28,7 @@ components:
     # Busuanzi visitor statistics
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2024-06-16
     # My Popular Repositories
     side_bar_repo:
         enabled: true
