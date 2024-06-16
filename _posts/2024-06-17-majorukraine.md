@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Major Ukraine summit ends with fresh plea for peace but key powers spurn final agreement
+title: Major Ukraine
 categories: Blog
-description: Major Ukraine summit ends
-keywords: strengths, weaknesses
+description: Major Ukraine 
+keywords: country
 ---
 
 A two-day summit in Switzerland dedicated to forging a path forward to end the war in Ukraine concluded with key powers spurning a joint communique agreed to by more than 80 other countries and international organizations.
-
-### CNN
 
 India, Saudi Arabia, South Africa and the United Arab Emirates, all of whom have important trading relationships with Russia as members of the BRICS economic group, attended the weekend meeting but did not agree to sign the joint statement.
 
