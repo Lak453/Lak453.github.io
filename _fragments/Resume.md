@@ -24,11 +24,11 @@ Ho Wang Ho (Howard)
 
 ## Education
 - Michigan State University, East Lansing, Mi 
-- Computer Sciences GPA:3.75 [July 2022] - [May 2025]
+- Computer Sciences GPA: 3.75 [July 2022] - [May 2025]
 - University of Arizona, Tucson, AZ Computer Sciences 
-- GPA:2.9 [July, 2021] - [May, 2022]
+- GPA: 2.9 [July, 2021] - [May, 2022]
 - St.Johnsbury Academy, St Johnsbury, VT 
-- GPA:3.5 [2018] - [2021] 
+- GPA: 3.5 [2018] - [2021] 
 
 ## Experience
 
