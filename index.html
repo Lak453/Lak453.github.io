@@ -5,7 +5,10 @@ comments: false
 ---
 
 <style>
+.home .banner,
 .home .site-header,
+.home .banner .collection-head,
+.home .banner .collection-head a,
 .home .site-header h1 a,
 .home .site-header .site-header-nav-item:hover {
     color: {{ site.index.banner.color | default: '#fff' }};
@@ -15,13 +18,36 @@ comments: false
     color: {{ site.index.banner.nav-color | default: 'rgba(255, 255, 255, .5)' }};
 }
 
+.home .banner,
 .home .site-header {
     background-color: {{ site.index.banner.background-color | default: '#4183c4'}};
+}
+
+{% if site.index.banner.background-image %}
+.home .banner {
+    background-image: url("{{ site.index.banner.background-image }}");
+    background-repeat: {{ site.index.banner.background-repeat | default: 'no-repeat' }};
+    background-size: {{ site.index.banner.background-size | default: 'cover' }};
+}
+{% endif %}
+
+.home .banner .collection-head {
+    background: 0 0;
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+
+.home .site-header {
+    border-bottom: none
 }
 
 @media (max-width:50em) {
   .home .collapsed .icon-bar {
     background-color: white;
+  }
+
+  .home .collection-head .collection-header {
+    font-size: 1.25em;
   }
 }
 </style>
@@ -30,7 +56,41 @@ comments: false
 {% if site.cdn.jsdelivr.enabled %}
 {% assign assets_base_url = "https://fastly.jsdelivr.net/gh/" | append: site.repository | append: '@master' %}
 {% endif %}
-
+<section class="banner">
+    <div class="collection-head">
+      <div class="container">
+        <div class="columns">
+          <div class="column two-thirds">
+            <div class="collection-title">
+              <h1 class="collection-header" id="sub-title"><span>{{ site.subtitle }}</span></h1>
+              <div class="collection-info">
+                <span class="meta-info mobile-hidden">
+                  <span class="octicon octicon-location"></span>
+                  {{ site.location }}
+                </span>
+                {% if site.organization %}
+                <span class="meta-info">
+                  <span class="octicon octicon-organization"></span>
+                  <a href="{{ site.organization_url }}" target="_blank">{{ site.organization }}</a>
+                </span>
+                {% endif %}
+                <span class="meta-info">
+                  <span class="octicon octicon-mark-github"></span>
+                  <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="column one-third mobile-hidden">
+            <div class="collection-title">
+              {% include sidebar-qrcode.html %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+<!-- /.banner -->
 <section class="container content">
     <div class="columns">
         <div class="column two-thirds" >
