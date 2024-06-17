@@ -1,93 +1,93 @@
-# 码志
+# Mazhuang's Blog
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+My personal blog: <https://mazhuang.org>, feel free to Star and Fork.
 
-## 概览
+## Overview
 
 <!-- vim-markdown-toc GFM -->
 
-* [效果预览](#效果预览)
-* [Fork 指南](#fork-指南)
-* [使用文档](#使用文档)
-* [经验与思考](#经验与思考)
-* [联系我](#联系我)
-* [致谢](#致谢)
+* [Preview](#preview)
+* [Fork Guide](#fork-guide)
+* [Usage Documentation](#usage-documentation)
+* [Experiences and Thoughts](#experiences-and-thoughts)
+* [Contact Me](#contact-me)
+* [Acknowledgments](#acknowledgments)
 
 <!-- vim-markdown-toc -->
 
-## 效果预览
+## Preview
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[Online Preview &rarr;](https://mazhuang.org)**
 
 ![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
-## Fork 指南
+## Fork Guide
 
-Fork 本项目之后，还需要做一些事情才能让你的页面「正确」跑起来。
+After forking this project, you need to do a few things to get your page running properly.
 
-1. 正确设置项目名称与分支。
+1. Correctly set the project name and branch.
 
-   按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
+   According to GitHub Pages' requirements, projects named `username.github.io` can automatically generate GitHub Pages from the master branch, or from the gh-pages branch for other project names.
 
-2. 修改域名。
+2. Modify the domain name.
 
-   如果你需要绑定自己的域名，那么修改 CNAME 文件的内容，并参考 [配置 GitHub Pages 站点的自定义域](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site) 做好配置；如果不需要绑定自己的域名，那么删掉 CNAME 文件。
+   If you need to bind your own domain name, change the content of the CNAME file and refer to [Configuring a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) for configuration; if not, delete the CNAME file.
 
-3. 修改配置。
+3. Modify the configuration.
 
-   网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 url、title、subtitle 和第三方评论模块的配置等。
+   Most of the website's configuration is in the \_config.yml file. Replace the personal information sections with your own, such as the website's url, title, subtitle, and third-party comment module settings.
 
-   **评论模块：** 目前支持 disqus、gitment、gitalk、utterances、beaudar 和 giscus，选用其中一种就可以了，推荐使用 giscus。它们各自的官方配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了，请参考官方指南配置。
+   **Comments module:** Currently, it supports disqus, gitment, gitalk, utterances, beaudar, and giscus. Choose one, with giscus recommended. Links to their official configuration guides are in the Comments section of \_config.yml. Please refer to the official guides for configuration.
 
-   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
+   **Note:** If using disqus, due to a flaw in disqus' username and domain whitelist strategy, be sure to change disqus.username to your own, or leave it blank. My record of this flaw can be found at [Issues#2][3].
 
-4. 删除我的文章与图片。
+4. Delete my articles and images.
 
-   如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
+   In the following folders, you can delete everything except the template.md file and add your own content.
 
-   * \_posts 文件夹中是我已发布的博客文章。
-   * \_drafts 文件夹中是我尚未发布的博客文章。
-   * \_wiki 文件夹中是我已发布的 wiki 页面。
-   * \_fragments 文件夹中是我已发布的短文片段。
-   * images 文件夹中是我的文章和页面里使用的图片。
+   * \_posts folder contains my published blog articles.
+   * \_drafts folder contains my unpublished blog articles.
+   * \_wiki folder contains my published wiki pages.
+   * \_fragments folder contains my published short pieces.
+   * images folder contains images used in my articles and pages.
 
-5. 修改「关于」页面。
+5. Modify the "About" page.
 
-   pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息，包括 \_data 目录下的 skills.yml 和 social.yml 文件里的数据。
+   The content of pages/about.md corresponds to the "About" page of the website. Replace the personal information with your own, including the data in the \_data directory's skills.yml and social.yml files.
 
-   skills.yml 和 social.yml 里内容的含义可以参考：[_data 目录下的 yml 文件内容含义](https://mazhuang.org/2020/05/03/blog-template-qna/#_data-%E7%9B%AE%E5%BD%95%E4%B8%8B%E7%9A%84-yml-%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E5%90%AB%E4%B9%89)。
+   The meanings of the content in skills.yml and social.yml can be referred to here: [Meaning of yml file content in the _data directory](https://mazhuang.org/2020/05/03/blog-template-qna/#_data-%E7%9B%AE%E5%BD%95%E4%B8%8B%E7%9A%84-yml-%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E5%90%AB%E4%B9%89).
 
-## 使用文档
+## Usage Documentation
 
-- [本博客模板常见问题 Q & A](https://mazhuang.org/2020/05/03/blog-template-qna/)。
+- [Common Questions and Answers for this Blog Template](https://mazhuang.org/2020/05/03/blog-template-qna/).
 
-- 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
+- To preview the blog locally, refer to [Setting up your Pages site locally with Jekyll][2].
 
-## 经验与思考
+## Experiences and Thoughts
 
-* 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
+* Follow certain formatting rules, recommended: [Chinese Copywriting Guidelines (Simplified Chinese)][1].
 
-* 简约，尽量每个页面都不展示多余的内容。
+* Simplicity is key; avoid displaying unnecessary content on each page.
 
-* 有时一图抵千言，有时可能只会拖慢网页加载速度。
+* Sometimes a picture is worth a thousand words, but it can also slow down the page load.
 
-* 言之有物，不做无痛之呻吟。
+* Meaningful content over empty words.
 
-* 如果写技术文章，那先将技术原理完全理清了再开始写，一边摸索技术一边组织文章效率较低。
+* If writing technical articles, ensure a thorough understanding of the technical principles before writing. Organizing articles while exploring technology is less efficient.
 
-* 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
+* Avoid long, difficult-to-understand sentences. If they cannot be split into several concise short sentences, it indicates a lack of clear understanding.
 
-* 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
+* Learn from high-quality bloggers, observing their writing and content organization for valuable insights.
 
-## 联系我
+## Contact Me
 
-如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) 或者微信公众号「闷骚的程序员」与我取得联系。
+If you have any suggestions regarding this blog template or its content, you can reach me through [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) or the WeChat public account "Mensa Programmer."
 
 <img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
 
-## 致谢
+## Acknowledgments
 
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
+The appearance of this blog is modified based on [DONGChuan](https://dongchuan.github.io). Thanks!
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
