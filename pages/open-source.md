@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Open Source Projects
+title: My GitHub Projects
 keywords: open-source,GitHub
-description: Open Source Projects
+description: My GitHub Projects
 permalink: /open-source/
 ---
 
