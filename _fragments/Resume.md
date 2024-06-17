@@ -11,7 +11,9 @@ mathjax: false
 mindmap: false
 mindmap2: false
 ---
+## NAME
 HO WANG HO (HOWARD)
+
 ## PERSONAL PROFILE
 A responsible person, majoring in computer
 science. Seeking an internship for software
