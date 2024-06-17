@@ -1,5 +1,5 @@
 ---
-layout: Resume
+layout: Post
 title: Resume
 tags: [Resume]
 description: Resume
