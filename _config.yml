@@ -154,42 +154,6 @@ collections:
         permalink: /fragment/:path/
 
 # ---------------- #
-#      Comments    #
-# ---------------- #
-# support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
-comments_provider: giscus
-# disqus configuration reference: https://disqus.com
-disqus:
-    username: 
-# gitment configuration reference: https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# gitalk configuration reference: https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# utterances configuration reference: https://utteranc.es/
-utterances:
-    repo: mzlogin/blog-comments
-# beaudar configuration reference: https://beaudar.lipk.org/
-beaudar:
-    repo: mzlogin/blog-comments
-# giscus configuration reference: https://giscus.app/
-giscus:
-    repo: Lak453/Lak453.github.io
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
-    category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
-# Click to display Disqus when using other comment components
-lazy_load_disqus : false
-
-# ---------------- #
 #      Search      #
 # ---------------- #
 simple_jekyll_search:
