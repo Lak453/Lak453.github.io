@@ -32,11 +32,9 @@ Ho Wang Ho (Howard)
 
 ## EXPERIENCE
 
-- Michigan State University, East Lansing, Mi
+- Michigan State University, East Lansing, Mi 
 
-- Introceduce to Engineering Design,Course Project
-
--W orking with a Team of 5 members to develop an application by using MIT App Inventor [Jan 2023]
+- Introceduce to Engineering Design,Course Project Working with a Team of 5 members to develop an application by using MIT App Inventor [Jan 2023]
 
 ## TECHNICAL SKILLS
 - Primary knowledge of Adobe Ps

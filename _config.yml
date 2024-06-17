@@ -158,10 +158,9 @@ collections:
 # ---------------- #
 # support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
 comments_provider: giscus
-# !!!Important!!! Please modify infos below to yours
 # disqus configuration reference: https://disqus.com
 disqus:
-    username: Lak453
+    username: 
 # gitment configuration reference: https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: mzlogin
@@ -183,7 +182,7 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus configuration reference: https://giscus.app/
 giscus:
-    repo: mzlogin/blog-comments
+    repo: Lak453/Lak453.github.io
     repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
     category: Announcements
     category-id: DIC_kwDOBY0E7c4CRtg9
