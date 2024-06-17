@@ -11,12 +11,38 @@ mathjax: false
 mindmap: false
 mindmap2: false
 ---
+HO WANG HO (HOWARD)
+## PERSONAL PROFILE
+A responsible person, majoring in computer
+science. Seeking an internship for software
+programing
 
-In VSCode, the default Markdown preview style is not very visually appealing. You can customize the style.
+## CONTACT
+Phone Number:
+802-751-9340
+Email:
+hohowang41@gmail.com
+Address:
+2900 Northwind Dr, APT 412
+East Lansing, Mi, 48823
 
-To do this, go to the VSCode settings, find Extensions > Markdown > Markdown: Styles, and then Add Item. You can add a local CSS file from the current working directory or a URL.
+## EDUCATION
 
-Issues encountered:
+Michigan State University, E.Lansing, Mi
+Computer Sciences GPA:3.75
+[July 2022] - [May 2025]
+University of Arizona, Tucson, AZ
+Computer Sciences GPA:2.9
+[July, 2021] - [May, 2022]
+St. Johnsbury Academy, St Johnsbury, VT
+[2018] - [2021] GPA:3.5
+## EXPERIENCE
+Michigan State University, E.Lansing, Mi
+Introceduce to Engineering Design,Course Project
+● Working with a Team of 5 members to develop an application by
+using MIT App Inventor [Jan 2023]
 
-1. The local CSS file cannot be an absolute path outside the current working directory, otherwise, an error will occur.
-2. The media type of the URL address must not be text/plain, otherwise, an error will occur: `Could not load 'markdown.styles'`. Reference: <https://github.com/microsoft/vscode/issues/148677>.
+## TECHNICAL SKILLS
+● Primary knowledge of Adobe Ps
+● Primary software programming
+● Primary game development

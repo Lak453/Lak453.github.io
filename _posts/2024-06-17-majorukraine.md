@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Major Ukraine
-categories: Blog
+categories: NEWS
 description: Major Ukraine 
 keywords: country
 ---
