@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: page
 title: Resume
 tags: [Resume]
 description: Resume
@@ -12,7 +12,7 @@ mindmap: false
 mindmap2: false
 ---
 ## NAME
-HO WANG HO (HOWARD)
+HO WANG HO (Howard)
 
 ## PERSONAL PROFILE
 A responsible person, majoring in computer
@@ -38,6 +38,7 @@ Computer Sciences GPA:2.9
 [July, 2021] - [May, 2022]
 St. Johnsbury Academy, St Johnsbury, VT
 [2018] - [2021] GPA:3.5
+
 ## EXPERIENCE
 Michigan State University, E.Lansing, Mi
 Introceduce to Engineering Design,Course Project

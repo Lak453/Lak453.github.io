@@ -9,8 +9,6 @@ menu: Resume
 permalink: /Resume/
 ---
 
-> Scattered knowledge and brief insights, gathered here as fragments.
-
 {% assign tagliststr = '' %}
 {% for item in site.fragments %}
 {% if item.title != "Fragment Template" %}

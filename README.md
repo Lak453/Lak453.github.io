@@ -83,8 +83,6 @@ After forking this project, you need to do a few things to get your page running
 
 If you have any suggestions regarding this blog template or its content, you can reach me through [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) or the WeChat public account "Mensa Programmer."
 
-<img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
-
 ## Acknowledgments
 
 The appearance of this blog is modified based on [DONGChuan](https://dongchuan.github.io). Thanks!

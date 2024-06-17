@@ -9,7 +9,6 @@ menu: Wiki
 permalink: /wiki/
 ---
 
-> How many commands and shortcuts can one remember before their head explodes?
 
 {% case site.components.wiki.view %}
 
