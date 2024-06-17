@@ -181,7 +181,7 @@ utterances:
 # beaudar configuration reference: https://beaudar.lipk.org/
 beaudar:
     repo: mzlogin/blog-comments
-# giscus configuration reference: https://giscus.app/zh-CN
+# giscus configuration reference: https://giscus.app/
 giscus:
     repo: mzlogin/blog-comments
     repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
@@ -197,7 +197,7 @@ simple_jekyll_search:
     # Whether to support full-text search
     fulltext: false
     # Maximum number of search results to display
-    limit: 10
+    limit: 3
 
 # ---------------- #
 #      Google      #
